@@ -7,4 +7,4 @@ The solutions are out of order.
 
 # The Problems
 
-485. [Max Consecutive Ones](https://github.com/analiteg/ABAP-Project-Euler/blob/main/01.abap/)
+485. [Max Consecutive Ones](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/485.abap)
