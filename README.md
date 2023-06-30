@@ -7,6 +7,7 @@ The solutions are out of order.
 
 # The Problems
 
+- 26   [Remove Duplicates from Sorted Array](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/26.abap)
 - 27   [Remove Element](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/27.abap)
 - 485  [Max Consecutive Ones](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/485.abap)
 - 977  [Squares of a Sorted Array](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/977.abap)
