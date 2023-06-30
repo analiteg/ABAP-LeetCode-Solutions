@@ -9,6 +9,7 @@ The solutions are out of order.
 
 - 485  [Max Consecutive Ones](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/485.abap)
 - 977  [Squares of a Sorted Array](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/977.abap)
+- 1089 [Duplicate Zeros](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/1089.abap)
 - 1295 [Find Numbers with Even Number of Digits](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/1295.abap)
 
 
