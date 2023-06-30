@@ -11,6 +11,7 @@ The solutions are out of order.
 - 27   [Remove Element](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/27.abap)
 - 283  [Move Zeroes](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/283.abap)
 - 485  [Max Consecutive Ones](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/485.abap)
+- 905 [Sort Array By Parity](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/905.abap)
 - 977  [Squares of a Sorted Array](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/977.abap)
 - 1089 [Duplicate Zeros](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/1089.abap)
 - 1295 [Find Numbers with Even Number of Digits](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/1295.abap)
