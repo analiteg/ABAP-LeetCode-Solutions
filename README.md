@@ -7,7 +7,7 @@ The solutions are out of order.
 
 # The Problems
 
-- 1    [Two Sum](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/1.abap)
+- 1    - [Two Sum](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/1.abap)
 - 9    [Palindrome Number](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/9.abap)
 - 13   [Roman to Integer](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/13.abap)
 - 14   [Longest Common Prefix](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/14.abap)
