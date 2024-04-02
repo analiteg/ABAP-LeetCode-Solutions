@@ -15,6 +15,7 @@ The solutions are out of order.
 - [26 - Remove Duplicates from Sorted Array](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/26.abap)
 - [27 - Remove Element](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/27.abap)
 - [35 - Search Insert Position](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/35.abap)
+- [58 - Length of Last Word](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/58.abap)
 - [283 - Move Zeroes](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/283.abap)
 - [485 - Max Consecutive Ones](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/485.abap)
 - [905 - Sort Array By Parity](https://github.com/analiteg/ABAP-LeetCode-Solutions/blob/main/905.abap)
