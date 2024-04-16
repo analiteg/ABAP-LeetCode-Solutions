@@ -20,6 +20,7 @@ CLASS zcl_length_last_word IMPLEMENTATION.
   METHOD get_length.
     DATA(lv_string) = iv_string.
     DATA lt_stack TYPE STANDARD TABLE OF string.
+    SHIFT lv_string RIGHT DELETING TRAILING SPACE.
     SPLIT lv_string AT ' ' INTO TABLE lt_stack.
     rv_length = strlen( lt_stack[ lines( lt_stack ) ] ).
   ENDMETHOD.
